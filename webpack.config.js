@@ -3,6 +3,6 @@ module.exports = {
     entry: './src/index.js',
     output: {
 	path: path.resolve(__dirname, 'docs'),
-	filename: 'dist.js'
+	filename: 'dist2.js'
     }
 };
