@@ -1,0 +1,10 @@
+{
+  "name": "petites_fiches",
+  "version": "1.0.0",
+  "description": "Allows to create radio plans that are printable.",
+  "main": "index.js",
+  "repository": "https://github.com/sebug/petites_fiches.git",
+  "author": "sebug <sebastian.gfeller@gmail.com>",
+  "license": "GPL",
+  "private": false
+}
